@@ -77,3 +77,41 @@ body{
     margin: 0 auto;
     text-align: center;
 }
+
+/* second div */
+
+.second{
+    background: orangered;
+    height: 320px;
+    color: #333;
+    font-size: 1.2rem;
+    padding: 0.4rem;
+    font-weight: 600;
+}
+
+/* third */
+.third{
+    color: orangered;
+    font-size: 1.2rem;
+    padding: 0.4rem;
+    font-weight: 600;
+    
+}
+
+#services>li{
+    list-style:circle;
+    color: orangered;
+    padding: 0.5rem;
+}
+
+.footer{
+    max-width: 1000px;
+    background-color: black;
+    color: #fff;
+    padding: 0.6rem;
+    margin: 0.5rem;
+}
+.links>ul>a{
+    color: #fff;
+    text-decoration: none;
+}
